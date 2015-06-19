@@ -1,15 +1,12 @@
 # thatcodecorner-music
 
-Simple web application done as part of my post at:
-
-[thatcodecorner.com](http://example.com/ "That Code Corner Directives Post"). 
-
-To help explain how directives work.
+Simple web application done as part of my post at:  
+[thatcodecorner.com](http://example.com/ "That Code Corner Directives Post").  
+To help explain how directives work.  
 
 ## Build & development
 
-Run 'node install' to get all the packages you need.
-
+Run `node install` to get all the packages you need.  
 Run `grunt` for building and `grunt serve` for preview.
 
 
