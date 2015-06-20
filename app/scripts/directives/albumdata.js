@@ -9,7 +9,7 @@
 angular.module('thatcodecornerMusicApp')
   .directive('tccAlbumData', function () {
     return {
-      restric: 'E',
+      restrict: 'E',
       scope: {
         album: '=data'
       },
