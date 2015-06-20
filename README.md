@@ -1,7 +1,7 @@
 # thatcodecorner-music
 
 Simple web application done as part of my post at:  
-[thatcodecorner.com](http://example.com/ "That Code Corner Directives Post").  
+[thatcodecorner.com](http://thatcodecorner.com/wp/2015/06/direction-on-angularjs-directives/ "That Code Corner Directives Post").  
 To help explain how directives work.  
 
 ## Build & development
